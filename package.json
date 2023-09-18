@@ -1,8 +1,11 @@
 {
-  "name": "Todo-list-app-using-EJS-and-Express",
+  "name": "todo-list-app-using-ejs-and-express",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Nixhazel/Todo-list-app-using-EJS-and-Express.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nixhazel/Todo-list-app-using-EJS-and-Express.git"
+  },
   "author": "Emmanuel <38895255+Nixhazel@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
@@ -15,5 +18,11 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Nixhazel/Todo-list-app-using-EJS-and-Express/issues"
+  },
+  "homepage": "https://github.com/Nixhazel/Todo-list-app-using-EJS-and-Express#readme",
+  "keywords": [],
+  "description": ""
 }
